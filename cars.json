@@ -1,0 +1,38 @@
+[
+    {
+        "id": 1,
+        "make": "bmw",
+        "model": "54",
+        "year": "2021",
+        "price": "23021",
+        "vin": "2",
+        "is_sold": false
+    },
+    {
+        "id": 2,
+        "make": "2020",
+        "model": "audi",
+        "year": "rs2",
+        "price": "10000",
+        "vin": "21039120k9012k",
+        "is_sold": false
+    },
+    {
+        "id": 3,
+        "make": "chevy",
+        "model": "blazer",
+        "year": "2020",
+        "price": "20000",
+        "vin": "2139k012jsio1",
+        "is_sold": false
+    },
+    {
+        "id": 4,
+        "make": "honda",
+        "model": "accord",
+        "year": "2015",
+        "price": "10000",
+        "vin": "192i03129i",
+        "is_sold": false
+    }
+]
